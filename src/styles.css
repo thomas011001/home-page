@@ -147,6 +147,11 @@ section.portfolio .projects .project {
   border-radius: 5px;
   justify-content: space-between;
   padding-bottom: 15px;
+  transition: 300ms;
+}
+
+section.portfolio .projects .project:hover {
+  transform: translateY(-10px);
 }
 
 section.portfolio .projects .project .img {
