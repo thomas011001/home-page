@@ -24,3 +24,5 @@ This project is a personal portfolio website showcasing the work and contact inf
 
 - Add functionality to the social media links.
 - Populate the portfolio section with real projects.
+---
+- You can visit the website [here](https://thomas011001.github.io/home-page/)
